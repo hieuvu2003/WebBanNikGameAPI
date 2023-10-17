@@ -1687,11 +1687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\Api.BanHang\\Api.BanNick.csproj",
+      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\Api.BanHang\\Api.BanNick.csproj",
       "projectName": "Api.BanNick",
-      "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\Api.BanHang\\Api.BanNick.csproj",
+      "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\Api.BanHang\\Api.BanNick.csproj",
       "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\Api.BanHang\\obj\\",
+      "outputPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\Api.BanHang\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1708,11 +1708,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
             },
-            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\DataModel\\DataModel.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\DataModel\\DataModel.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DataModel\\DataModel.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DataModel\\DataModel.csproj"
             }
           }
         }

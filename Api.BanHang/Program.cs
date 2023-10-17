@@ -39,6 +39,7 @@ builder.Services.AddAuthentication(x =>
 {
     x.RequireHttpsMetadata = false;
     x.SaveToken = true;
+    byte[] key = new byte[32];
     x.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,

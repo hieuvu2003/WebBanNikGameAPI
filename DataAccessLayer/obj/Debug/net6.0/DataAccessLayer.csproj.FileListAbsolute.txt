@@ -58,3 +58,18 @@ C:\Users\VuMinhHieu\Desktop\Demo\BanHang\DataAccessLayer\obj\Debug\net6.0\DataAc
 C:\Users\VuMinhHieu\Desktop\Demo\BanHang\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
 C:\Users\VuMinhHieu\Desktop\Demo\BanHang\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\VuMinhHieu\Desktop\Demo\BanHang\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\VuMinhHieu\Desktop\Demo\BAN NICK\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

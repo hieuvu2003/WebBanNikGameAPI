@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -713,8 +713,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\DataModel\\DataModel.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BanHang\\DataModel\\DataModel.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DataModel\\DataModel.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DataModel\\DataModel.csproj"
             }
           }
         }
