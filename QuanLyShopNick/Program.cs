@@ -10,7 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Model;
 using System.Text;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder();
 
 // Add services to the container.
 builder.Services.AddTransient<ISanPhamBusiness, SanPhamBusiness>();

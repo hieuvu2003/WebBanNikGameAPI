@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Model;
 
-namespace QuanLyCuaHangDoAnVat.Controllers
+namespace QuanLyShopNick.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -25,7 +25,7 @@ namespace QuanLyCuaHangDoAnVat.Controllers
 
         [Route("Get-Output-Bill-Id")]
         [HttpGet]
-        public List<HoaDonBan> GetId(int id)
+        public List<SanPham> GetId(int id)
         {
             return db.GetDataId(id);
         }

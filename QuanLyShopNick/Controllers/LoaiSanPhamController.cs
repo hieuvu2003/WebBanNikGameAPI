@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Model;
 
-namespace QuanLyCuaHangDoAnVat.Controllers
+namespace QuanLyShopNick.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

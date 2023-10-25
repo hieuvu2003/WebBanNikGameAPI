@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqfU2bxHmq3mm/ocyagtj7rQVrPGhS9j1dIaZNOtlbj45w66GeY6s5dPoJe/jR24PlhAx6BpshZivqcF5y1XqQ==",
+  "dgSpecHash": "NFhLohkgmvOqTPbYlVMLPwcCHPPGGFwAZYi22di6kfOjbg25ehXLvhumx8+UX9nEDB/FGgpac4XuzUiUJYNNnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyShopNick.csproj",
+  "projectFilePath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\QuanLyShopNick\\QuanLyShopNick.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VuMinhHieu\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\VuMinhHieu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.15\\microsoft.aspnetcore.authentication.jwtbearer.6.0.15.nupkg.sha512",

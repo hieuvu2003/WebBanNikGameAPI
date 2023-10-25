@@ -751,11 +751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -772,11 +772,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\Model\\Model.csproj"
             }
           }
         }

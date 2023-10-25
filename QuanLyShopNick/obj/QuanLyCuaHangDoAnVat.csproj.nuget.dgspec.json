@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj": {}
+    "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj": {
+    "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj"
+              "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj"
+              "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj": {
+    "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj"
+              "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj"
               }
             }
           }
@@ -153,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj": {
+    "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\obj\\",
+        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj": {
+    "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj",
+        "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj",
         "projectName": "QuanLyCuaHangDoAnVat",
-        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj",
+        "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyCuaHangDoAnVat.csproj",
         "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\obj\\",
+        "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\QuanLyCuaHangDoAnVat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -246,14 +246,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj"
+              "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\BLL\\BLL.csproj"
               },
-              "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj"
+              "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj"
+              "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\Model\\Model.csproj"
               }
             }
           }

@@ -10,7 +10,7 @@ namespace DAL.Interfaces
     public interface IHoaDonBanDAL
     {
         List<HoaDonBan> GetAll();
-        List<HoaDonBan> GetDataId(int id);
+        List<SanPham> GetDataId(int id);
         void Delete(int id);
         void Update(HoaDonBan hdb);
         KhachHang GetCustomerId(int id);    

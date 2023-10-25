@@ -20,7 +20,7 @@ namespace BLL
         {
             return db.GetAll();
         }
-        public List<HoaDonBan> GetDataId(int id)
+        public List<SanPham> GetDataId(int id)
         {
             return db.GetDataId(id);
         }

@@ -19,12 +19,12 @@ namespace DAL
         }
 
 
-        public List<HoaDonBan> GetDataId(int id)
+        public List<SanPham> GetDataId(int id)
         {
             try
             {
                 var sp = db.ExcuteProcedureReturnDatatable("get_all_detail_output_bill_id", "@id", id);
-                return sp.ConvertTo<HoaDonBan>().ToList();
+                return sp.ConvertTo<SanPham>().ToList();
             }
             catch (Exception ex)
             {
@@ -49,7 +49,7 @@ namespace DAL
         {
             try
             {
-                db.ExecuteProcedure("[dbo].[xoahoadonban]", "@Id", id);
+                db.ExecuteProcedure("xoahoadonnhap", "@Id", id);
             }
             catch (Exception ex)
             {
@@ -73,10 +73,7 @@ namespace DAL
         {
             try
             {
-                db.ExecuteProcedure("suahoadonban", "@MaHoaDon",hdb.MaHoaDon,
-                    "@MaKhachHang",hdb.@MaKhachHang,
-                     "@NgayTao", hdb.@NgayTao, "@DiaChiNhan", hdb.DiaChiNhan,
-                     "@TrangThai" ,hdb.TrangThai, "@MoTa", hdb.MoTa, "@TongTien", hdb.TongTien);
+                db.ExecuteProcedure("suahoadonnhap", "@Ma");
             }
             catch (Exception ex)
             {

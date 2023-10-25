@@ -11,7 +11,7 @@ using System.Data;
 using System.Data.SqlClient;
 using Microsoft.AspNetCore.Authorization;
 
-namespace QuanLyCuaHangDoAnVat.Controllers
+namespace QuanLyShopNick.Controllers
 {
     [Authorize]
     [Route("api/[controller]")]

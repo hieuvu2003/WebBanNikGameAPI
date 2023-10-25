@@ -1,5 +1,5 @@
 ﻿
-CREATE DATABASE QLCH
+CREATE DATABASE BanNick
 GO
 
 CREATE TABLE LoaiSanPham(
@@ -31,16 +31,6 @@ create table ChiTietAnh(
 	Delete CASCADE ON UPDATE CASCADE
 )
 
---create table KichThuoc(
---	MaKichThuoc int Identity(1,1) Primary Key,
---	MaSanPham int,
---	KichThuoc char(10),
---	GiaTheoKichThuoc Decimal(18,0),
---	MoTa ntext,
---	TrangThai bit,
---	Foreign Key (MaSanPham) References SanPham (MaSanPham) On
---	Delete CASCADE ON UPDATE CASCADE
---)
 
 Create table GiamGia(
 	MaGiamGia int Identity(1,1) Primary Key,
@@ -148,94 +138,76 @@ CREATE TABLE slide(
 	anh3 nvarchar(100)
 )
 
-INSERT INTO LoaiSanPham(TenLoai,MoTa,MaCha)
-Values (N'Đồ nội địa','',0)
-INSERT INTO LoaiSanPham(TenLoai,MoTa,MaCha)
-Values (N'Đồ nhập khẩu','',0)
-INSERT INTO LoaiSanPham(TenLoai,MoTa,MaCha)
-Values (N'Đồ ăn liền','',0)
-INSERT INTO LoaiSanPham(TenLoai,MoTa,MaCha)
-Values (N'Đồ uống','',0)
-INSERT INTO LoaiSanPham(TenLoai,MoTa,MaCha)
-Values (N'Bánh','',0)
+--------------------
+INSERT INTO LoaiSanPham(TenLoai,MoTa,MaLoai)
+Values (N'Game Team Mobie','Hải Tặc',5)
+INSERT INTO LoaiSanPham(TenLoai,MoTa,MaLoai)
+Values (N'Game Team Mobie','Hải Tặc',1)
+INSERT INTO LoaiSanPham(TenLoai,MoTa,MaLoai)
+Values (N'Game Team Mobie','Hải Tặc',2)
+INSERT INTO LoaiSanPham(TenLoai,MoTa,MaLoai)
+Values (N'Game Team Mobie','Hải Tặc',3)
+INSERT INTO LoaiSanPham(TenLoai,MoTa,MaLoai)
+Values (N'Game Team Mobie','Hải Tặc',4)
+INSERT INTO LoaiSanPham(TenLoai,MoTa,MaLoai)
+Values (N'Game Team Mobie',N'Hải Tặc',6)
 
 INSERT INTO SanPham(TenSanPham,MaLoai,Anh,MoTa,ChiTietSanPham)
-Values (N'Chân gà rút xương',1,'','','')
+Values (N'Võ Sĩ',0,'','','')
 INSERT INTO SanPham(TenSanPham,MaLoai,Anh,MoTa,ChiTietSanPham)
-Values (N'Xúc xích nướng',1,'','','')
+Values (N'Kiếm Khách',0,'','','')
 INSERT INTO SanPham(TenSanPham,MaLoai,Anh,MoTa,ChiTietSanPham)
-Values (N'Bánh gạo cay hàn quốc',5,'','','')
+Values (N'Đầu bếp',0,'','','')
 INSERT INTO SanPham(TenSanPham,MaLoai,Anh,MoTa,ChiTietSanPham)
-Values (N'Phở bò ăn liền',3,'','','')
+Values (N'Hoa Tiêu',0,'','','')
 INSERT INTO SanPham(TenSanPham,MaLoai,Anh,MoTa,ChiTietSanPham)
-Values (N'Bánh đa',5,'','','')
+Values (N'Xạ Thủ',0,'','','')
 
 INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Nguyễn Mai Anh',N'Hà Nội','092817321','anh@gmail.com')
+Values (N'Nguyễn Văn A',N'Hưng Yên','0333817321','ahhhhhh@gmail.com')
 INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Đỗ Đình Nam',N'Hà Nội','0683728192','namanh@gmail.com')
-INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Hoàng Minh Quân',N'TP Hồ Chí Minh','0367281921','Hquan@gmail.com')
-INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Đinh Tiến Đạt',N'Cao Bằng','0364719212','dat@gmail.com')
-INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Nguyễn Chí Tân',N'Lạng Sơn','0927396621','tan@gmail.com')
-INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Cao Thanh Tân',N'Thanh Hóa','0932517772','cttan@gmail.com')
-INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Nguyễn Trúc Bạch',N'Yên Bái','0982637728','bach@gmail.com')
-INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Mai Thảo Liên',N'Hà Nội','0974683221','lien@gmail.com')
-INSERT INTO NhaCungCap(HoTen,DiaChi,DienThoai,Email)
-Values (N'Ngô Hoàng Nam',N'Hà Nội','0364738212','nam@gmail.com')
+Values (N'Nguyễn Văn B',N'Hưng Yên','038338192','hahah@gmail.com')
 
 INSERT INTO ChiTietHoaDonNhap(MaHoaDonNhap,MaSanPham,SoLuong,GiaNhap)
-Values (10,1,50,20000)
+Values (11,12,50,20000)
 INSERT INTO ChiTietHoaDonNhap(MaHoaDonNhap,MaSanPham,SoLuong,GiaNhap)
-Values (6,2,50,25000)
+Values (12,12,50,25000)
 INSERT INTO ChiTietHoaDonNhap(MaHoaDonNhap,MaSanPham,SoLuong,GiaNhap)
-Values (7,3,50,25000)
+Values (13,13,50,25000)
 INSERT INTO ChiTietHoaDonNhap(MaHoaDonNhap,MaSanPham,SoLuong,GiaNhap)
-Values (8,4,50,35000)
+Values (14,14,50,35000)
 INSERT INTO ChiTietHoaDonNhap(MaHoaDonNhap,MaSanPham,SoLuong,GiaNhap)
-Values (9,5,50,10000)
+Values (17,17,50,10000)
 
 INSERT INTO HoaDonNhap(MaNhaCungCap,MaNguoiDung,NgayNhap)
-Values (1,1,'01/02/2023')
+Values (1,1,'08/05/2023')
 INSERT INTO HoaDonNhap(MaNhaCungCap,MaNguoiDung,NgayNhap)
-Values (2,1,'02/02/2023')
+Values (2,1,'09/06/2023')
 INSERT INTO HoaDonNhap(MaNhaCungCap,MaNguoiDung,NgayNhap)
-Values (3,1,'03/02/2023')
+Values (3,1,'03/07/2023')
 INSERT INTO HoaDonNhap(MaNhaCungCap,MaNguoiDung,NgayNhap)
-Values (4,2,'04/02/2023')
+Values (4,2,'06/11/2023')
 INSERT INTO HoaDonNhap(MaNhaCungCap,MaNguoiDung,NgayNhap)
-Values (5,2,'05/02/2023')
+Values (5,2,'02/02/2023')
 
 INSERT INTO NguoiDung(UserName,PassWord,NgayTao,Anh,HoTen,DienThoai,Email,DiaChi,TrangThai)
-Values ('admin','123','01-01-2023','',N'Hoàng Văn Nhật',0356748792,'nhat@gmail.com',N'Văn Giang - Hưng Yên',1)
+Values ('hieu','123','01-02-2023','',N'Vũ Minh Hiếu',0352254036,'vuminhhieu21122003@gmail.com',N'Phú Thọ',1)
 INSERT INTO NguoiDung(UserName,PassWord,NgayTao,Anh,HoTen,DienThoai,Email,DiaChi,TrangThai)
-Values ('admin2','123','03-01-2023','',N'Hoàng Mai Phương',0345367281,'hphuong@gmail.com',N'Hưng Yên',1)
+Values ('hiep1','123','03-03-2023','',N'Vũ Văn Hiệp11',0355367281,'gvenh@gmail.com',N'Hưng Yên',1)
 INSERT INTO NguoiDung(UserName,PassWord,NgayTao,Anh,HoTen,DienThoai,Email,DiaChi,TrangThai)
-Values ('khoi','khoi123','05-02-2023','',N'Nguyễn Minh Khôi',0946382638,'khoi@gmail.com',N'Hưng Yên',1)
+Values ('hiep2','11111','05-04-2023','',N'Vũ Văn Hiệp',0946382638,'hiepdan123@gmail.com',N'Hưng Yên',1)
 
 INSERT INTO KhachHang(UserName,PassWord,HoVaTen,DiaChi,SoDienThoai,Email)
-Values ('nhat','123',N'Hoàng Văn Nhật',N'Văn Giang - Hưng Yên',0356748792,'nhat@gmail.com')
+Values ('nam','123',N'Hoàng Nam',N'Hưng Yên',0987748792,'namcon@gmail.com')
 INSERT INTO KhachHang(UserName,PassWord,HoVaTen,DiaChi,SoDienThoai,Email)
-Values ('tuan','123',N'Hoàng Mai Phương',N'Hưng Yên',0345367281,'hphuong@gmail.com')
+Values ('nguyen','123',N'Dương Đức Nguyên',N'Hưng Yên',0333367281,'nguyen123@gmail.com')
 INSERT INTO KhachHang(UserName,PassWord,HoVaTen,DiaChi,SoDienThoai,Email)
-Values ('khoi','123',N'Nguyễn Minh Khôi',N'Hưng Yên',0946382638,'khoi@gmail.com')
+Values ('cuong','123',N'Nguyễn Cường',N'Hưng Yên',0789382638,'cuonghy@gmail.com')
 
-INSERT INTO HoaDonNhap Values(1,1,'02-02-2023')
-INSERT INTO HoaDonNhap Values(2,1,'03-02-2023')
-INSERT INTO HoaDonNhap Values(3,2,'03-02-2023')
-INSERT INTO HoaDonNhap Values(4,3,'01-02-2023')
-INSERT INTO HoaDonNhap Values(5,2,'01-02-2023')
-
-INSERT INTO ChiTietHoaDonNhap(MaSanPham,MaHoaDonNhap,SoLuong,GiaNhap) Values(1,6,25,50000)
-INSERT INTO ChiTietHoaDonNhap(MaSanPham,MaHoaDonNhap,SoLuong,GiaNhap) Values(2,7,35,55000)
-INSERT INTO ChiTietHoaDonNhap(MaSanPham,MaHoaDonNhap,SoLuong,GiaNhap) Values(3,8,55,45000)
-INSERT INTO ChiTietHoaDonNhap(MaSanPham,MaHoaDonNhap,SoLuong,GiaNhap) Values(4,9,65,20000)
-INSERT INTO ChiTietHoaDonNhap(MaSanPham,MaHoaDonNhap,SoLuong,GiaNhap) Values(5,10,95,30000)
+INSERT INTO HoaDonNhap Values(1,1,'08-01-2023')
+INSERT INTO HoaDonNhap Values(2,1,'07-02-2023')
+INSERT INTO HoaDonNhap Values(3,2,'03-03-2023')
+INSERT INTO HoaDonNhap Values(4,3,'04-05-2023')
 
 
 
@@ -248,33 +220,27 @@ select * from HoaDonNhap
 select * from ChiTietHoaDonNhap
 
 INSERT INTO ChiTietHoaDonBan(MaSanPham,MaHoaDon,SoLuong,TamTinh)
-Values(1,1,2,120000)
+Values(15,1,2,120000)
 INSERT INTO ChiTietHoaDonBan(MaSanPham,MaHoaDon,SoLuong,TamTinh)
-Values(2,2,4,260000)
+Values(16,2,4,260000)
 INSERT INTO ChiTietHoaDonBan(MaSanPham,MaHoaDon,SoLuong,TamTinh)
-Values(3,3,5,275000)
+Values(17,3,5,275000)
 INSERT INTO ChiTietHoaDonBan(MaSanPham,MaHoaDon,SoLuong,TamTinh)
-Values(4,4,3,90000)
+Values(18,4,3,90000)
 INSERT INTO ChiTietHoaDonBan(MaSanPham,MaHoaDon,SoLuong,TamTinh)
-Values(5,5,1,40000)
+Values(19,5,1,40000)
 
 INSERT INTO HoaDonBan(MaKhachHang,NgayTao,DiaChiNhan,TrangThai,MoTa,TongTien)
-Values(1,'08-03-2023',N'Hà Nội',2,'',120000)
+Values(1,'06-10-2023',N'Hà Nội',2,'',120000)
 INSERT INTO HoaDonBan(MaKhachHang,NgayTao,DiaChiNhan,TrangThai,MoTa,TongTien)
-Values(2,'08-02-2023',N'Văn Lâm - Hà Nội',2,'',260000)
+Values(2,'08-12-2023',N'Văn Lâm',2,'',260000)
 INSERT INTO HoaDonBan(MaKhachHang,NgayTao,DiaChiNhan,TrangThai,MoTa,TongTien)
-Values(3,'08-01-2023',N'Phố cổ - Hà Nội',2,'',275000)
+Values(3,'08-06-2023',N'Hà Nội',2,'',275000)
 INSERT INTO HoaDonBan(MaKhachHang,NgayTao,DiaChiNhan,TrangThai,MoTa,TongTien)
-Values(2,'07-03-2023',N'Thanh Hóa',2,'',90000)
+Values(2,'07-04-2023',N'Thái Bình',2,'',90000)
 INSERT INTO HoaDonBan(MaKhachHang,NgayTao,DiaChiNhan,TrangThai,MoTa,TongTien)
-Values(1,'09-03-2023',N'Quận 8,TP Hồ Chí Minh',2,'',40000)
+Values(1,'09-03-2023',N'Hưng Yên',2,'',40000)
 
---INSERT INTO Quyen(MaNguoiDung,Quyen)
---Values (1,1)
---INSERT INTO Quyen(MaNguoiDung,Quyen)
---Values (2,1)
---INSERT INTO Quyen(MaNguoiDung,Quyen)
---Values (3,0)
 
 --Lấy sản phẩm theo mã
 Create Procedure GetSanPhamById
@@ -285,7 +251,7 @@ BEGIN
 	Where sp.MaSanPham = @Id;
 END
 
-exec GetSanPhamById @Id = 5
+exec GetSanPhamById @Id = 15
 
 --Lấy tất cả danh sách sản phẩm
 Create Procedure GetAllProduct
@@ -344,7 +310,7 @@ AS
 		Where @Ma = MaSanPham 
 END
 
-exec suasanpham @Ma = 7, @name= N'khô bò', @maloai = 5, @mota = N'khô bò',@anh = N'khobo.jfif',@motachitiet=N'khô bò chính hãng',@gia =15500,@soluong =2
+
 
 CREATE Procedure xoasanpham
 	@Id int
@@ -395,7 +361,7 @@ exec SanPhamMoi @sl = 10
 --Tìm kiếm gần đúng sản phẩm theo tên và loại 
 select sp.*
 from SanPham sp inner join LoaiSanPham ls on sp.MaLoai = ls.MaLoai
-where sp.TenSanPham like N'%Bánh%' or ls.TenLoai like N'%Đồ nội địa%'
+where sp.TenSanPham like N'%Võ Sĩ%' or ls.TenLoai like N'%Game Team Mobie%'
 
 CREATE PROCEDURE TimKiem
     @Page INT,
@@ -431,7 +397,6 @@ BEGIN
 END;
 
 exec TimKiem @page =1 , @PageSize=5,@Search = 45000
-Select * From SanPham sp inner join Gia g on sp.MaSanPham = g.MaSanPham
 
 --Thêm vào giỏ hàng
 CREATE PROCEDURE AddToCart
@@ -819,3 +784,29 @@ BEGIN
 	DELETE HoaDonBan
 	where MaHoaDon = @Id
 END
+
+--Sửa hóa đơn bán--
+Create Procedure suahoadonban
+	@MaHoaDon int, 
+	@MaKhachHang int,
+	@NgayTao datetime,
+	@DiaChiNhan nvarchar(50),
+	@TrangThai int,
+	@MoTa nvarchar(300),
+	@TongTien float
+	
+AS 
+	BEGIN
+		UPDATE HoaDonBan
+		SET 
+			MaKhachHang = @MaKhachHang,
+			NgayTao = @NgayTao,
+			DiaChiNhan = @DiaChiNhan,
+			TrangThai = @TrangThai,
+			MoTa = @MoTa,
+			TongTien =@TongTien
+		Where MaHoaDon = @MaHoaDon 
+END
+
+select * from HoaDonBan
+select * from HoaDonNhap

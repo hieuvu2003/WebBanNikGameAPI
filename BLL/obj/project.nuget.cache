@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2RISc5Zh8lOBbeBan126r/9AgPAqvGyxPYQK319wek3qTpBRp6IRG3OAUl16PiGSwUvGTNBNBcg5MobOb1Ajxg==",
+  "dgSpecHash": "+vwEEmlYXsbGzcxak1wNR/CaIW/EGIgh5+J2DlOjLDjsvwlVckdTmE9BUznVfPUGMgat7QbIw6Zf7a3yJX1HjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VuMinhHieu\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.1.23110.8\\microsoft.extensions.configuration.8.0.0-preview.1.23110.8.nupkg.sha512",
     "C:\\Users\\VuMinhHieu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.1.23110.8\\microsoft.extensions.configuration.abstractions.8.0.0-preview.1.23110.8.nupkg.sha512",

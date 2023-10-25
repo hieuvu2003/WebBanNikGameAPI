@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "QuanLyShopNick": {
+    "QuanLyCuaHangDoAnVat": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

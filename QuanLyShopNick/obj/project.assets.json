@@ -1887,11 +1887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyShopNick.csproj",
+      "projectUniqueName": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\QuanLyShopNick\\QuanLyShopNick.csproj",
       "projectName": "QuanLyShopNick",
-      "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\QuanLyShopNick.csproj",
+      "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\QuanLyShopNick\\QuanLyShopNick.csproj",
       "packagesPath": "C:\\Users\\VuMinhHieu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\QuanLyCuaHangDoAnVat\\obj\\",
+      "outputPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\QuanLyShopNick\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VuMinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1908,14 +1908,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\BLL\\BLL.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\DAL\\DAL.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\VuMinhHieu\\Downloads\\Admin\\Admin\\Model\\Model.csproj"
+            "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\Model\\Model.csproj"
             }
           }
         }
