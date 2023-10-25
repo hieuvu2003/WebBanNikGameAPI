@@ -25,7 +25,7 @@ namespace QuanLyShopNick.Controllers
 
         [Route("Get-Output-Bill-Id")]
         [HttpGet]
-        public List<SanPham> GetId(int id)
+        public List<HoaDonBan> GetId(int id)
         {
             return db.GetDataId(id);
         }

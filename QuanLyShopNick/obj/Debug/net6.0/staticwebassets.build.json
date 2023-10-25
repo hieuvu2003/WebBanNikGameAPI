@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vP0vETxgJqf8ZRcUy+Ev0BHhd8SR/2tmXVmPA+NK2+4=",
+  "Hash": "ZueSdZxy9bHAG4TJD/At+9M1/mOOdhO0s5wvLYSQVNA=",
   "Source": "QuanLyShopNick",
   "BasePath": "_content/QuanLyShopNick",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "QuanLyShopNick\\wwwroot",
       "Source": "QuanLyShopNick",
-      "ContentRoot": "C:\\Users\\VuMinhHieu\\Downloads\\SHOPNICK\\Admin\\QuanLyShopNick\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VuMinhHieu\\Desktop\\Demo\\BAN NICK\\QuanLyShopNick\\wwwroot\\",
       "BasePath": "_content/QuanLyShopNick",
       "Pattern": "**"
     }

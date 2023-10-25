@@ -10,7 +10,7 @@ namespace BLL.Interfaces
     public interface IHoaDonBanBLL
     {
         List<HoaDonBan> GetAll();
-        List<SanPham> GetDataId(int id);
+        List<HoaDonBan> GetDataId(int id);
         void Delete(int id);
         void Update(HoaDonBan hdb);
         KhachHang GetCustomerId(int id);
