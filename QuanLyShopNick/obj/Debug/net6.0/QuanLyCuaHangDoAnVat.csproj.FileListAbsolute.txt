@@ -1,0 +1,179 @@
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\appsettings.Development.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\appsettings.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.exe
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.deps.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.runtimeconfig.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\BLL.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\DAL.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Model.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\BLL.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\DAL.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Model.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.AssemblyReference.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.AssemblyInfoInputs.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.AssemblyInfo.cs
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.CoreCompileInputs.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.MvcApplicationPartsAssemblyInfo.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.QuanLyCuaHangDoAnVat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLyCuaHangDoAnVat.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyCuaHangDoAnVat.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLyCuaHangDoAnVat.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.pack.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.build.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.development.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\scopedcss\bundle\QuanLyCuaHangDoAnVat.styles.css
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.CopyComplete
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\refint\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.genruntimeconfig.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\ref\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\QuanLyCuaHangDoAnVat\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\appsettings.Development.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\appsettings.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.exe
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.deps.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.runtimeconfig.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\BLL.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\DAL.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Model.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\BLL.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\DAL.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Model.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.AssemblyReference.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.AssemblyInfoInputs.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.AssemblyInfo.cs
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.CoreCompileInputs.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.MvcApplicationPartsAssemblyInfo.cs
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.MvcApplicationPartsAssemblyInfo.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.QuanLyCuaHangDoAnVat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLyCuaHangDoAnVat.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyCuaHangDoAnVat.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLyCuaHangDoAnVat.props
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.pack.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.build.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.development.json
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\scopedcss\bundle\QuanLyCuaHangDoAnVat.styles.css
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.CopyComplete
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\refint\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.pdb
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.genruntimeconfig.cache
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\ref\QuanLyCuaHangDoAnVat.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\FluentValidation.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Ocelot.dll
+D:\năm 3\Kỳ 2\API\Bài Tập Lớn\BTL_API\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.staticwebassets.runtime.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\appsettings.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.staticwebassets.runtime.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.exe
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.deps.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.runtimeconfig.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\QuanLyCuaHangDoAnVat.pdb
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Ocelot.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\BLL.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\DAL.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Model.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\BLL.pdb
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\DAL.pdb
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\bin\Debug\net6.0\Model.pdb
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.AssemblyReference.cache
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.AssemblyInfoInputs.cache
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.AssemblyInfo.cs
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.CoreCompileInputs.cache
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.QuanLyCuaHangDoAnVat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.build.QuanLyCuaHangDoAnVat.props
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QuanLyCuaHangDoAnVat.props
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QuanLyCuaHangDoAnVat.props
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\scopedcss\bundle\QuanLyCuaHangDoAnVat.styles.css
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.csproj.CopyComplete
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\refint\QuanLyCuaHangDoAnVat.dll
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.pdb
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\QuanLyCuaHangDoAnVat.genruntimeconfig.cache
+C:\Users\VuMinhHieu\Downloads\Admin\Admin\QuanLyCuaHangDoAnVat\obj\Debug\net6.0\ref\QuanLyCuaHangDoAnVat.dll
